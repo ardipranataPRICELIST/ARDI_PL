@@ -17,8 +17,8 @@ export const categories = [
 {name:'Paket 2',price:2000000,items:[photo,'100 Foto Edit','Video Highlight (2-4 Menit)','1 Fotografer','1 Videografer']}]},
 {id:'wisuda',name:'Wisuda',hours:null,deposit:0.5,description:'Abadikan momen penuh perjuangan dan kebanggaan dengan hasil yang profesional dan berkesan.',packages:[
 {name:'Paket 1 Personal',price:400000,items:[photo,'1 Wisudawan','100 Foto Edit','1 Fotografer']},
-{name:'Paket 2 Family',price:550000,items:[photo,'1 Wisudawan + Keluarga Inti','100 Foto Edit','1 Fotografer']},
-{name:'Paket 3 Group',price:650000,items:[photo,'3 Wisudawan max','150 Foto Edit','1 Fotografer']}]},
+{name:'Paket 2 Family',price:600000,items:[photo,'1 Wisudawan + Keluarga Inti','100 Foto Edit','1 Fotografer']},
+{name:'Paket 3 Group',price:750000,items:[photo,'3 Wisudawan max','150 Foto Edit','1 Fotografer']}]},
 {id:'aqiqah',name:'Aqiqah',hours:6,deposit:0.5,description:'Dokumentasi momen aqiqah yang penuh makna dengan sentuhan hangat dan natural.',packages:[
 {name:'Paket 1',price:900000,items:[photo,'100 Foto Edit','1 Fotografer']},
 {name:'Paket 2',price:2000000,items:[photo,'100 Foto Edit','Video Highlight (2-4 Menit)','1 Fotografer','1 Videografer']}]}];
